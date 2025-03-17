@@ -1,5 +1,6 @@
 ## MINSU
 
+![우분트](https://github.com/user-attachments/assets/87798086-3bfd-484d-9467-489181ab61dd)
 
 vscode를 22.04 우분투 가상환경에서 만들어 보았다. 
 

@@ -1,4 +1,4 @@
-## MINSU
+## MINSU 3월17일
 
 ![우분트](https://github.com/user-attachments/assets/87798086-3bfd-484d-9467-489181ab61dd)
 

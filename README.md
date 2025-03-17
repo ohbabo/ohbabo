@@ -1,5 +1,9 @@
 ## MINSU
 
+![우분투 vscode](https://github.com/user-attachments/assets/ab87c185-b966-4a55-9773-af6d95a56944)
+
+vscode를 22.04 우분투 가상환경에서 만들어 보았다. 
+
 <!--
 **ohbabo/ohbabo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

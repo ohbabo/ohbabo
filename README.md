@@ -1,10 +1,9 @@
 오민수 (Minsu Oh)
 
-🎯 Summary
+
 
 현 재 컴퓨터공학 학부 재학 중인 AI 개발자이자 사이버 보안 학습자입니다.PyTorch 기반 딥러닝 모델 개발, Flask REST API 설계·배포, AWS 및 Docker 환경 구축 경험을 보유하고 있으며, Kali Linux 및 다양한 정보 수집 도구(Shodan 등)를 활용한 모의 해킹 실습과 다수의 해킹 도구 개발 협업 경험이 있습니다.
 
-🛠️ Skills
 
 Programming & AI
 
@@ -90,7 +89,7 @@ AI Expert Course 팀 리더AI 교육 프로그램 (2024.08 – 2025.02)
 
 📫 Contact
 
-GitHub: github.com/ghfusdl7201
+GitHub: github.com/ohbabo
 
 Email: alsehd40@gmail
 

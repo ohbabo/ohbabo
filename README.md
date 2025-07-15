@@ -20,3 +20,5 @@ Bash 스크립팅
 
 취약 웹앱 실습:
 DVWA, OWASP Juice Shop  
+
+- 아 호주 가고 싶다 -

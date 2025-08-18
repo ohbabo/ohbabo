@@ -21,6 +21,3 @@ Bash 스크립팅
 취약 웹앱 실습:
 DVWA, OWASP Juice Shop  
 
-MINSU의 잡담
-- 아 호주 가고 싶다 -
-- AI 안쓰고 생각의 힘을 길러야해.
